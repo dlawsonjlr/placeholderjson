@@ -2,6 +2,7 @@
   "review": [
     {
       "location": "Asda",
+      "totalScore": "95%",
       "features": {
         "toilets": true,
         "food": true,
@@ -20,25 +21,25 @@
       "reviews": [
         {
           "id": 1,
-          "rating": "100%",
+          "rating": 5,
           "date": "2020/21/01",
           "comment": "Good location, supermarket, toilets,"
         },
         {
           "id": 2,
-          "rating": "100%",
+          "rating": 4,
           "date": "2020/11/13",
           "comment": "Good location"
         },
         {
           "id": 3,
-          "rating": "100%",
+          "rating": 5,
           "date": "2020/11/10",
           "comment": "Good location, large spaces"
         },
         {
           "id": 4,
-          "rating": "100%",
+          "rating": 5,
           "date": "2020/10/25",
           "comment": "Good location, large spaces, supermarket, restaurant(s), shop(s), toilets"
         }
